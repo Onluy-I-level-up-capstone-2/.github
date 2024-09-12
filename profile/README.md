@@ -1,6 +1,6 @@
 # 한들한들 🌿🍂
 >[!important]
->[개발 계획](#개발-계획)  /  [사용 기술](#사용-기술)  /  [개발 목적](#개발-목적)
+>[개발 계획](#개발-계획)  /  [사용 기술](#사용-기술)  /  [개발 목적](#개발-목적)   /   [팀원 소개](#팀원-소개)
 
 
 ## 개발 계획
@@ -17,5 +17,6 @@
 
 ## 개발 목적
 
-
+## 팀원 소개
+<a href="https://github.com/wjmals"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
