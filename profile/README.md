@@ -18,5 +18,8 @@
 ## 개발 목적
 
 ## 팀원 소개
-<a href="https://github.com/wjmals"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+팀장 김정민<a href="https://github.com/wjmals"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+팀원 김채민
+팀원 김채영<a href="https://github.com/chaee12345"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 
