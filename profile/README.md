@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Firestore-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white">
 
 ## 개발 목적
+  • 자아성찰
+  • 어휘력 증가
+  • 자기통찰력 증가
+  • 감정의 정
 
 ## 팀원 소개
 팀장 김정민       <a href="https://github.com/wjmals"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a> <br>
